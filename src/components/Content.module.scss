@@ -1,0 +1,11 @@
+.content {
+  grid-area: c;
+}
+
+.content {
+    @apply bg-cyan-900 m-1 border rounded-xl text-center;
+}
+
+.inContent {
+    @apply text-amber-200 float-right
+}

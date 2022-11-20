@@ -1,4 +1,5 @@
 import './App.css';
+import Content from './components/Content';
 import Header from './components/Header.jsx';
 import Nav from './components/Nav';
 
@@ -7,8 +8,7 @@ const App = () => {  //стрелочная функция, содержащая
     <div className='app-wrapper'>
       <Header />
       <Nav />
-      <div className='content'>
-      </div>
+      <Content />
     </div>  
   );
 }

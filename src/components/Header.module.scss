@@ -1,0 +1,15 @@
+.header {
+    @apply bg-gray-600 ;
+}
+
+.header {
+    grid-area: h;
+}
+
+.header img {
+  width: 200px;
+}
+
+.inHeader {
+    @apply text-center
+}
