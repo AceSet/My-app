@@ -1,0 +1,15 @@
+.header {
+    @apply bg-dark-sky-blue ;
+}
+
+.header {
+    grid-area: h;
+}
+
+.header img {
+    @apply float-left w-52
+}
+
+.inHeader {
+    @apply text-center
+}

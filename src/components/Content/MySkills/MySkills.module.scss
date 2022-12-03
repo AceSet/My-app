@@ -1,0 +1,27 @@
+.SKills {
+    @apply grid grid-cols-3 gap-2
+}
+
+.firstButton {
+ @apply bg-red-500 rounded-lg shadow-xl min-h-[50px]
+}
+
+.secondButton {
+   @apply bg-orange-500 rounded-lg shadow-xl min-h-[50px]
+}
+
+.thirdButton {
+    @apply bg-green-500 rounded-lg shadow-xl min-h-[50px]
+}
+
+.fourthButton {
+    @apply bg-gray-500 rounded-lg shadow-xl min-h-[50px]
+}
+
+.fivesButton {
+    @apply bg-amber-500 rounded-lg shadow-xl min-h-[50px]
+}
+
+.sixButton {
+    @apply bg-lime-500 rounded-lg shadow-xl min-h-[50px]
+}

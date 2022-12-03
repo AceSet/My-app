@@ -1,0 +1,10 @@
+.nav {
+  grid-area: n;
+}
+.nav {
+  @apply bg-gunmental border rounded-xl;
+}
+
+.inNav {
+  @apply text-rose-400 
+}

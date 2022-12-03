@@ -1,0 +1,11 @@
+.content {
+  grid-area: c;
+}
+
+.content {
+    @apply bg-lavender-web m-1 border rounded-xl text-center;
+}
+
+.inContent {
+    @apply text-neutral-900 float-right
+}
